@@ -20,6 +20,7 @@
 - [postgress](https://www.postgresql.org/)
 - [hibernate](https://hibernate.org/)
 - [JSON](https://www.json.org/json-ru.html)
+- [Jetty](https://eclipse.dev/jetty/)
 - ...
 
 ## Путь
